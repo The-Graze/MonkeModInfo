@@ -174,5 +174,13 @@
     "git_path": "lunakittyyy/GorillaEarmuffs",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/lunakittyyy/GorillaEarmuffs/releases/download/1.0.0/GorillaEarmuffs.dll"
+  },
+  {
+    "name": "GorillaFriends",
+    "author": "RusJJ/Not A Bird",
+    "version": "1.2.1",
+    "git_path": "Not-A-Bird-07/GorillaFriends",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"
   }
 ]
