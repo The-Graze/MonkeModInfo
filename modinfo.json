@@ -50,10 +50,10 @@
   {
     "name": "BetterMirror",
     "author": "Graze",
-    "version": "3.1",
+    "version": "3.2",
     "git_path": "The-Graze/BetterMirror",
     "group": "Cosmetic",
-    "download_url": "https://github.com/The-Graze/BetterMirror/releases/download/3.1/BetterMirror.dll"
+    "download_url": "https://github.com/The-Graze/BetterMirror/releases/download/3.2/BetterMirror.dll"
   },
   {
     "name": "Blink2",
