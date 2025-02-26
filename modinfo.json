@@ -15,7 +15,7 @@
     "group": "Core",
     "download_url": "https://github.com/Not-A-Bird-07/Utilla/releases/download/1.6.16/Utilla.dll"
   },
-    {
+  {
     "name": "LivSkins",
     "author": "Graze",
     "version": "1.0.1",
@@ -31,7 +31,7 @@
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.3/Grate.dll"
   },
-    {
+  {
     "name": "Index",
     "author": "zaynethedev",
     "version": "1.0.2",
@@ -46,6 +46,14 @@
     "git_path": "HuskyGT/Banana-OS",
     "group": "Gameplay",
     "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.0.9/BananaOS.dll"
+  },
+  {
+    "name": "NoMoreWind",
+    "author": "defaultuser0/Dev",
+    "version": "1.3.0",
+    "git_path": "defaultuser0-nerd/NoMoreWind",
+    "group": "Gameplay",
+    "download_url": "https://github.com/defaultuser0-nerd/NoMoreWind/releases/download/1.3.0/NoMoreWind.dll"
   },
   {
     "name": "BetterMirror",
