@@ -127,6 +127,14 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
   },
+    {
+    "name": "MusicControls",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/MusicControls",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/MusicControls/releases/download/1.0.0/MusicControls.dll"
+  },
   {
     "name": "GorillaHomes",
     "author": "wryser",
