@@ -90,10 +90,10 @@
   {
     "name": "GorillaShirts",
     "author": "Dev",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/1.1.8b/GorillaShirts.dll"
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/v1.1.9/GorillaShirts.dll"
   },
   {
     "name": "FarClipPlane",
