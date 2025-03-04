@@ -114,10 +114,10 @@
   {
     "name": "OculusReportMenu",
     "author": "stickmaster10",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "git_path": "stickmaster10/OculusReportMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/stickmaster10/OculusReportMenu/releases/download/v1.0.6/OculusReportMenu.dll"
+    "download_url": "https://github.com/stickmaster10/OculusReportMenu/releases/download/v1.1.0/OculusReportMenu.dll"
   },
   {
     "name": "Gorilla Discord RPC",
