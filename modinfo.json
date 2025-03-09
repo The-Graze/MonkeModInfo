@@ -14,6 +14,7 @@
      "dependencies": [
      "Extenject"
      ]
+    "installPath": "BepInEx/plugins",
      "group": "Core",
      "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
    },
@@ -25,6 +26,7 @@
        "dependencies": [
        "Bepinject-Auros"
       ]
+    "installPath": "BepInEx/plugins",
      "group": "Core",
      "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
    },
@@ -154,6 +156,7 @@
     "version": "2.0.0",
     "git_path": "wryser/Gorilla-Homes",
     "group": "Cosmetic",
+    "installPath": "BepInEx/plugins",
     "download_url": "https://github.com/wryser/Gorilla-Homes/releases/download/2.0.0/GorillaHomes.zip"
   },
   {
