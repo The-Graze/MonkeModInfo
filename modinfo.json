@@ -6,28 +6,28 @@
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
-  },
-		{
-			"name": "Bepinject",
-			"tag": "",
-			"gitPath": "Auros/Bepinject",
-			"releaseId": 0,
-			"author": "Auros",
-			"group": "Libraries",
-			"installPath": "BepInEx/plugins",
-			"dependencies": [
-				"Extenject"
-			]
-		},
-		{
-			"name": "Extenject",
-			"tag": "",
-			"gitPath": "Auros/Bepinject",
-			"releaseId": 1,
-			"author": "svermeulen",
-			"group": "Libraries",
-			"installPath": "BepInEx/plugins"
-		},
+    {
+     "name": "Bepinject-Auros",
+     "author": "Auros",
+     "version": "1.0.1",
+     "git_path": "Auros/Bepinject",
+     "dependencies": [
+     "Extenject"
+     ]
+     "group": "Core",
+     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+   },
+  {
+     "name": "Extenject",
+     "author": "Auros",
+     "version": "1.0.1",
+     "git_path": "Auros/Bepinject",
+       "dependencies": [
+       "Bepinject-Auros"
+      ]
+     "group": "Core",
+     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+   },
   {
     "name": "Utilla",
     "author": "Varoius(alot people)",
