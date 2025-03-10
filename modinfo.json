@@ -152,9 +152,9 @@
     "name": "GorillaHomes",
     "author": "wryser",
     "version": "2.0.0",
+    "install_location": "BepInEx/plugins",
     "git_path": "wryser/Gorilla-Homes",
     "group": "Cosmetic",
-    "install_location": "BepInEx/plugins",
     "download_url": "https://github.com/wryser/Gorilla-Homes/releases/download/2.0.0/GorillaHomes.zip"
   },
   {
