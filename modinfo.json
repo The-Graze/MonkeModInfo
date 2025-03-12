@@ -47,10 +47,10 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.6/Grate.dll"
+    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.6.7/Grate.dll"
   },
   {
     "name": "Index",
