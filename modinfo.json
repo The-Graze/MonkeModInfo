@@ -30,7 +30,7 @@
   },
   {
     "name": "Utilla",
-    "author": "Varoius(alot people)",
+    "author": "Various(check page)",
     "version": "1.6.16",
     "git_path": "developer9998/Utilla",
     "group": "Core",
@@ -43,6 +43,18 @@
     "git_path": "The-Graze/LivSkins",
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/1.0.1/LivSkins.zip"
+  },
+    {
+    "name": "ComputerInterface",
+    "author": "Various(check page)",
+    "version": "1.7.0",
+    "install_location": "BepInEx/plugins",
+          "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "DecalFree/GorillaInterface",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/DecalFree/GorillaInterface/releases/download/1.7.0/ComputerInterface.zip"
   },
   {
     "name": "Grate",
