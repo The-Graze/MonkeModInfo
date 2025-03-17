@@ -149,11 +149,11 @@
   },
   {
     "name": "OculusReportMenu",
-    "author": "stickmaster10",
+    "author": "Bingus Bingusington",
     "version": "1.1.1",
-    "git_path": "stickmaster10/OculusReportMenu",
+    "git_path": "bingus-dev/OculusReportMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/stickmaster10/OculusReportMenu/releases/download/v1.1.1/OculusReportMenu.dll"
+    "download_url": "https://github.com/bingus-dev/OculusReportMenu/releases/download/v1.1.1/OculusReportMenu.dll"
   },
   {
     "name": "Gorilla Discord RPC",
