@@ -7,13 +7,13 @@
     "name" : "Libraries",
     "rank" : 1
   },
+    {
+    "name" : "Gameplay",
+    "rank" : 2
+  },
   {
     "name" : "Tweaks / Tools",
     "rank" : 3
-  },
-  {
-    "name" : "Gameplay",
-    "rank" : 2
   },
   {
     "name" : "Cosmetic",
