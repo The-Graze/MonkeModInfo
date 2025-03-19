@@ -23,6 +23,9 @@
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
+        "dependencies": [
+      "Bepinject"
+    ],
     "install_location": "BepInEx/plugins",
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
