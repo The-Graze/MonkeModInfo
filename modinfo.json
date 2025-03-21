@@ -78,10 +78,10 @@
     {
     "name": "Index",
     "author": "zaynethedev",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "git_path": "zaynethedev/Index",
     "group": "Gameplay",
-    "download_url": "https://github.com/zaynethedev/Index/releases/download/v1.0.2/Index.dll"
+    "download_url": "https://github.com/zaynethedev/Index/releases/download/v1.0.4/Index-1_0_4.zip"
   },
   {
     "name": "BetterComputerCommands",
@@ -97,10 +97,10 @@
   {
     "name": "BananaOS",
     "author": "Husky",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "git_path": "HuskyGT/Banana-OS",
     "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.0.9/BananaOS.dll"
+    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/download/1.1.0/BananaOS.dll"
   },
   {
     "name": "NoMoreWind",
