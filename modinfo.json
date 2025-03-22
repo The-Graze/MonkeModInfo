@@ -255,5 +255,14 @@
     "git_path": "Not-A-Bird-07/GorillaFriends",
     "group": "Gameplay",
     "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"
+   },
+  {
+    "name": "Atmosphere's Dumb Menu",
+    "author": "AtmosphereGT",
+    "version": "1.0.1",
+    "git_path": "AtmosphereGT/Atmospheres-Dumb-Menu",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AtmosphereGT/Atmospheres-Dumb-Menu/releases/tag/v1.0.1/Atmosphere.s.Dumb.Menu.1.0.1.dll"
   }
 ]
+
