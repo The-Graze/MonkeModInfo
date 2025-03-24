@@ -87,13 +87,13 @@
   {
     "name": "BetterComputerCommands",
     "author": "kinomonke",
-    "version": "1.0.1",
+    "version": "1.0.2",
      "dependencies": [
       "ComputerInterface"
     ],
     "git_path": "kinomonke/BetterComputerCommands",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V1.0.1/BetterComputerCommands.dll"
+    "download_url": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V1.0.2/BetterComputerCommands.dll"
   },
   {
     "name": "BananaOS",
