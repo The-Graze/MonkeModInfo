@@ -257,12 +257,12 @@
     "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"
    },
   {
-    "name": "Atmosphere's Dumb Menu",
+    "name": "Walk Simulator",
     "author": "AtmosphereGT",
-    "version": "1.0.2",
-    "git_path": "AtmosphereGT/Atmospheres-Dumb-Menu",
+    "version": "1.0.0",
+    "git_path": "AtmosphereGT/Walk-Sim",
     "group": "Gameplay",
-    "download_url": "https://github.com/AtmosphereGT/Atmospheres-Dumb-Menu/releases/tag/v1.0.2/Atmosphere.s.Dumb.Menu.1.0.2.dll"
+    "download_url": "https://github.com/AtmosphereGT/Walk-Sim/releases/tag/v1.0.0/WalkSimulator"
   }
 ]
 
