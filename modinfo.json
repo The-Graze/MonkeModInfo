@@ -78,22 +78,22 @@
     {
     "name": "Index",
     "author": "zaynethedev",
-    "version": "1.0.5",
+    "version": "1.0.7",
     "install_location": "BepInEx/plugins",
     "git_path": "zaynethedev/Index",
     "group": "Gameplay",
-    "download_url": "https://github.com/zaynethedev/Index/releases/download/v1.0.5/Index-1_0_5.zip"
+    "download_url": "https://github.com/zaynethedev/Index/releases/download/v1.0.7/Index-1_0_7.zip"
   },
   {
     "name": "BetterComputerCommands",
     "author": "kinomonke",
-    "version": "1.0.1",
+    "version": "1.0.2",
      "dependencies": [
       "ComputerInterface"
     ],
     "git_path": "kinomonke/BetterComputerCommands",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V1.0.1/BetterComputerCommands.dll"
+    "download_url": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V1.0.2/BetterComputerCommands.dll"
   },
   {
     "name": "BananaOS",
@@ -125,7 +125,7 @@
     "version": "1.0.2",
     "git_path": "The-Graze/Blink2",
     "group": "Cosmetic",
-    "download_url": "https://github.com/The-Graze/Blink2/releases/download/1.0.2/Blink2.dll"
+    "download_url": "https://github.com/The-Graze/Blink2/releases/download/1.1.2/Blink2.dll"
   },
   {
     "name": "WhoIsTalking",
@@ -162,10 +162,10 @@
   {
     "name": "OculusReportMenu",
     "author": "Bingus Bingusington",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "git_path": "bingus-dev/OculusReportMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/bingus-dev/OculusReportMenu/releases/download/v1.1.1/OculusReportMenu.dll"
+    "download_url": "https://github.com/bingus-dev/OculusReportMenu/releases/download/v1.1.2/OculusReportMenu.dll"
   },
   {
     "name": "Gorilla Discord RPC",
@@ -211,10 +211,10 @@
   {
     "name": "OldHoldables",
     "author": "lunakittyyy",
-    "version": "2.4.2",
+    "version": "2.4.3",
     "git_path": "lunakittyyy/OldHoldables",
     "group": "Cosmetic",
-    "download_url": "https://github.com/lunakittyyy/OldHoldables/releases/download/2.4.2/OldHoldables.dll"
+    "download_url": "https://github.com/lunakittyyy/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
   },
   {
     "name": "FuckOffMonkeySounds",
@@ -254,15 +254,18 @@
     "version": "1.2.1",
     "git_path": "Not-A-Bird-07/GorillaFriends",
     "group": "Gameplay",
-    "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"
-   },
+    "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"  },
+  }
   {
-    "name": "Walk Sim",
+  "name": "Walk Sim",
     "author": "AtmosphereGT",
     "version": "1.0.0",
     "git_path": "AtmosphereGT/Walk-Sim",
     "group": "Gameplay",
     "download_url": "https://github.com/AtmosphereGT/Walk-Sim/releases/tag/v1.0.0/WalkSimulator"
   }
+
+   }
+
 ]
 
