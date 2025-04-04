@@ -138,13 +138,13 @@
   {
     "name": "WhoIsCheating",
     "author": "HanSolo1OOOFalcon",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dependencies": [
       "WhoIsTalking"
     ],
     "git_path": "HanSolo1OOOFalcon/WhoIsCheating",
     "group": "Gameplay",
-    "download_url": "https://github.com/HanSolo1OOOFalcon/WhoIsCheating/releases/download/v1.0.3/WhoIsCheating.dll"
+    "download_url": "https://github.com/HanSolo1OOOFalcon/WhoIsCheating/releases/download/v1.0.4/WhoIsCheating.dll"
   },
   {
     "name": "GorillaShirts",
