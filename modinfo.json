@@ -257,12 +257,12 @@
     "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"  },
   }
   {
-  "name": "Walk Sim",
+  "name": "Gorilla Cookie Clicker",
     "author": "AtmosphereGT",
     "version": "1.0.0",
-    "git_path": "AtmosphereGT/Walk-Sim",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AtmosphereGT/Walk-Sim/releases/tag/v1.0.0/WalkSimulator"
+    "git_path": "AtmosphereGT/Gorilla-Cookie-Clicker",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AtmosphereGT/Gorilla-Cookie-Clicker/releases/tag/v1.0.0"
   }
 
    }
