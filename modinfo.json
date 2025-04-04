@@ -23,7 +23,7 @@
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
-        "dependencies": [
+    "dependencies": [
       "Bepinject"
     ],
     "install_location": "BepInEx/plugins",
@@ -47,12 +47,12 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/1.0.1/LivSkins.zip"
   },
-    {
+  {
     "name": "ComputerInterface",
     "author": "Various(check page)",
     "version": "1.7.0",
     "install_location": "BepInEx/plugins",
-          "dependencies": [
+    "dependencies": [
       "Bepinject"
     ],
     "git_path": "DecalFree/GorillaInterface",
@@ -67,7 +67,7 @@
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.0/Grate.dll"
   },
-    {
+  {
     "name": "HideCityBundleStand",
     "author": "Graze",
     "version": "1.0.0",
@@ -75,7 +75,7 @@
     "group": "Core",
     "download_url": "https://github.com/The-Graze/HideCityBundleStand/releases/download/1.0.0/HideCityBundleStand.dll"
   },
-    {
+  {
     "name": "Index",
     "author": "zaynethedev",
     "version": "1.0.7",
@@ -88,7 +88,7 @@
     "name": "BetterComputerCommands",
     "author": "kinomonke",
     "version": "1.0.2",
-     "dependencies": [
+    "dependencies": [
       "ComputerInterface"
     ],
     "git_path": "kinomonke/BetterComputerCommands",
@@ -136,12 +136,23 @@
     "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/download/4.2.1/WhoIsTalking.dll"
   },
   {
+    "name": "WhoIsCheating",
+    "author": "HanSolo1OOOFalcon",
+    "version": "1.0.4",
+    "dependencies": [
+      "WhoIsTalking"
+    ],
+    "git_path": "HanSolo1OOOFalcon/WhoIsCheating",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/WhoIsCheating/releases/download/v1.0.4/WhoIsCheating.dll"
+  },
+  {
     "name": "GorillaShirts",
     "author": "Dev",
-    "version": "1.1.10",
+    "version": "1.1.10.1",
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/v1.1.10/GorillaShirts.dll"
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/v1.1.10.1/GorillaShirts.dll"
   },
   {
     "name": "FarClipPlane",
@@ -175,7 +186,7 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
   },
-    {
+  {
     "name": "MusicControls",
     "author": "Graze",
     "version": "1.0.2",
@@ -254,6 +265,7 @@
     "version": "1.2.1",
     "git_path": "Not-A-Bird-07/GorillaFriends",
     "group": "Gameplay",
+
     "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"  },
   },
   {
@@ -267,5 +279,7 @@
 
    }
 
-]
 
+    "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.1/GorillaFriends.dll"
+  }
+]
