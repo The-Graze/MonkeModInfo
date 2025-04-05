@@ -39,6 +39,14 @@
     "group": "Core",
     "download_url": "https://github.com/developer9998/Utilla/releases/download/March3/Utilla.dll"
   },
+    {
+    "name": "HoneyLib",
+    "author": "BzzzThe18th",
+    "version": "1.1.2",
+    "git_path": "BzzzThe18th/HoneyLib",
+    "group": "Libraries",
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.2/HoneyLib.dll"
+  },
   {
     "name": "LivSkins",
     "author": "Graze",
