@@ -138,10 +138,10 @@
   {
     "name": "WhoIsTalking",
     "author": "Graze",
-    "version": "4.2.1",
+    "version": "4.2.2",
     "git_path": "The-Graze/WhoIsTalking",
     "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/download/4.2.1/WhoIsTalking.dll"
+    "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/download/4.2.2/WhoIsTalking.dll"
   },
   {
     "name": "WhoIsCheating",
