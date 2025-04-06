@@ -155,6 +155,17 @@
     "group": "Gameplay",
     "download_url": "https://github.com/HanSolo1OOOFalcon/WhoIsCheating/releases/download/v1.0.4/WhoIsCheating.dll"
   },
+    {
+    "name": "WhoIsSpeeding",
+    "author": "HanSolo1OOOFalcon",
+    "version": "1.0.0",
+    "dependencies": [
+      "WhoIsTalking"
+    ],
+    "git_path": "HanSolo1OOOFalcon/WhoIsCheating",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1OOOFalcon/WhoIsSpeeding/releases/download/v1.0.0/WhoIsSpeeding.dll"
+  },
   {
     "name": "GorillaShirts",
     "author": "Dev",
