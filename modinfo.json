@@ -51,6 +51,7 @@
     "name": "LivSkins",
     "author": "Graze",
     "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
     "git_path": "The-Graze/LivSkins",
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/1.0.1/LivSkins.zip"
@@ -190,6 +191,7 @@
     "name": "Gorilla Discord RPC",
     "author": "Chin",
     "version": "1.0.0",
+    "install_location": "BepInEx/plugins",
     "git_path": "Chin0303/Gorilla-Discord-RPC",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
