@@ -147,7 +147,7 @@
   {
     "name": "WhoIsThatMonke",
     "author": "HanSolo1OOOFalcon",
-    "version": "1.0.4",
+    "version": "1.0.0",
     "dependencies": [
       "WhoIsTalking"
     ],
