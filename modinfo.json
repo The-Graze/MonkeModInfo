@@ -1,4 +1,4 @@
-[
+F[
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
@@ -71,10 +71,10 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.1/Grate.dll"
+    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.2/Grate.dll"
   },
   {
     "name": "HideCityBundleStand",
