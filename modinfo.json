@@ -59,14 +59,14 @@
   {
     "name": "ComputerInterface",
     "author": "Various(check page)",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "install_location": "BepInEx/plugins",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "DecalFree/GorillaInterface",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/DecalFree/GorillaInterface/releases/download/1.7.1/ComputerInterface.zip"
+    "download_url": "https://github.com/DecalFree/GorillaInterface/releases/download/1.7.2/ComputerInterface.zip"
   },
   {
     "name": "Grate",
