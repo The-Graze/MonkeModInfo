@@ -51,7 +51,6 @@
     "name": "LivSkins",
     "author": "Graze",
     "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
     "git_path": "The-Graze/LivSkins",
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/1.0.1/LivSkins.zip"
