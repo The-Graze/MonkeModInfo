@@ -246,6 +246,14 @@
     "download_url": "https://github.com/lunakittyyy/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
   },
   {
+    "name": "MarioMonkeMadness (Requires ROM)",
+    "author": "lunakittyyy",
+    "version": "0.1.0",
+    "git_path": "lunakittyyy/MarioMonkeMadness",
+    "group": "Gameplay",
+    "download_url": "https://github.com/lunakittyyy/MarioMonkeMadness/releases/download/0.1.0/MarioMonkeMadness-010-1.zip"
+  },
+  {
     "name": "FuckOffMonkeySounds",
     "author": "lunakittyyy",
     "version": "1.1.0",
