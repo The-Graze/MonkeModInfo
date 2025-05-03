@@ -247,11 +247,11 @@
   },
   {
     "name": "MarioMonkeMadness (Requires ROM)",
-    "author": "lunakittyyy",
-    "version": "0.1.0",
-    "git_path": "lunakittyyy/MarioMonkeMadness",
+    "author": "gizmogoat",
+    "version": "0.1.1",
+    "git_path": "gizmogoat/MarioMonkeMadness",
     "group": "Gameplay",
-    "download_url": "https://github.com/lunakittyyy/MarioMonkeMadness/releases/download/0.1.0/MarioMonkeMadness-010-1.zip"
+    "download_url": "https://github.com/gizmogoat/MarioMonkeMadness/releases/download/0.1.1/MarioMonkeMadness-011.zip"
   },
   {
     "name": "FuckOffMonkeySounds",
