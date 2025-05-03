@@ -239,11 +239,11 @@
   },
   {
     "name": "OldHoldables",
-    "author": "lunakittyyy",
+    "author": "gizmogoat",
     "version": "2.4.3",
-    "git_path": "lunakittyyy/OldHoldables",
+    "git_path": "gizmogoat/OldHoldables",
     "group": "Cosmetic",
-    "download_url": "https://github.com/lunakittyyy/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
+    "download_url": "https://github.com/gizmogoat/OldHoldables/releases/download/2.4.3/OldHoldables.dll"
   },
   {
     "name": "MarioMonkeMadness (Requires ROM)",
@@ -255,35 +255,35 @@
   },
   {
     "name": "FuckOffMonkeySounds",
-    "author": "lunakittyyy",
+    "author": "gizmogoat",
     "version": "1.1.0",
-    "git_path": "lunakittyyy/FuckOffMonkeySounds",
+    "git_path": "gizmogoat/FuckOffMonkeySounds",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/lunakittyyy/FuckOffMonkeySounds/releases/download/1.1.0/FuckOffMonkeySoundsBIE.dll"
+    "download_url": "https://github.com/gizmogoat/FuckOffMonkeySounds/releases/download/1.1.0/FuckOffMonkeySoundsBIE.dll"
   },
   {
     "name": "GorillaXS",
-    "author": "lunakittyyy",
+    "author": "gizmogoat",
     "version": "1.2.1",
-    "git_path": "lunakittyyy/GorillaXS",
+    "git_path": "gizmogoat/GorillaXS",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/lunakittyyy/GorillaXS/releases/download/1.2.1/GorillaXS.dll"
+    "download_url": "https://github.com/gizmogoat/GorillaXS/releases/download/1.2.1/GorillaXS.dll"
   },
   {
     "name": "GorillaXS Basics",
-    "author": "lunakittyyy",
+    "author": "gizmogoat",
     "version": "1.1.0",
-    "git_path": "lunakittyyy/GorillaXS.Basics",
+    "git_path": "gizmogoat/GorillaXS.Basics",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/lunakittyyy/GorillaXS.Basics/releases/download/1.1.0/GorillaXS.Basics.dll"
+    "download_url": "https://github.com/gizmogoat/GorillaXS.Basics/releases/download/1.1.0/GorillaXS.Basics.dll"
   },
   {
     "name": "GorillaEarmuffs",
-    "author": "lunakittyyy",
+    "author": "gizmogoat",
     "version": "1.0.0",
-    "git_path": "lunakittyyy/GorillaEarmuffs",
+    "git_path": "gizmogoat/GorillaEarmuffs",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/lunakittyyy/GorillaEarmuffs/releases/download/1.0.0/GorillaEarmuffs.dll"
+    "download_url": "https://github.com/gizmogoat/GorillaEarmuffs/releases/download/1.0.0/GorillaEarmuffs.dll"
   },
   {
     "name": "GorillaFriends",
