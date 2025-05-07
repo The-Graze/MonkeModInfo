@@ -70,16 +70,16 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.2/Grate.dll"
+    "download_url": "https://github.com/The-Graze/Grate/releases/download/1.7.3/Grate.dll"
   },
   {
     "name": "HideCityBundleStand",
     "author": "Graze",
     "version": "1.0.0",
-    "git_path": "The-Graze/Grate",
+    "git_path": "The-Graze/HideCityBundleStand",
     "group": "Core",
     "download_url": "https://github.com/The-Graze/HideCityBundleStand/releases/download/1.0.0/HideCityBundleStand.dll"
   },
