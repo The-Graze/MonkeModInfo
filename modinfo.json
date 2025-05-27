@@ -190,10 +190,10 @@
   {
     "name": "OculusReportMenu",
     "author": "SirKingBinx",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "git_path": "sirkingbinx/OculusReportMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/download/v2.0.0/OculusReportMenu.dll"
+    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/download/v2.1.0/OculusReportMenu.dll"
   },
   {
     "name": "Gorilla Discord RPC",
