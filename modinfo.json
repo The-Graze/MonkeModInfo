@@ -292,5 +292,13 @@
     "git_path": "Not-A-Bird-07/GorillaFriends",
     "group": "Gameplay",
     "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.2/GorillaFriends.dll"
+  },
+  {
+    "name": "phosphorite",
+    "author": "BrokenStone",
+    "version": "0.0.1",
+    "git_path": "BrokenSt0ne/phosphorite",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BrokenSt0ne/phosphorite/releases/download/0.0.1/phosphorite.zip"
   }
 ]
