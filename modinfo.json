@@ -67,6 +67,9 @@
     "name": "AlanlogTurn-CI",
     "author": "Graze",
     "version": "1.0.0",
+     "dependencies": [
+      "ComputerInterface"
+    ],
     "git_path": "The-Graze/AnalogTurn",
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/AnalogTurn/releases/download/1.0.0/AnalogTurn-CI.dll"
