@@ -67,7 +67,7 @@
     "name": "AlanlogTurn-CI",
     "author": "Graze",
     "version": "1.0.0",
-     "dependencies": [
+    "dependencies": [
       "ComputerInterface"
     ],
     "git_path": "The-Graze/AnalogTurn",
