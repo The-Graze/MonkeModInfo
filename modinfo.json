@@ -88,7 +88,7 @@
     "version": "1.7.6",
     "install_location": "BepInEx/plugins",
     "dependencies": [
-      "ComputerInterface"
+      "Bepinject"
     ],
     "git_path": "DecalFree/GorillaInterface",
     "group": "Tweaks / Tools",
