@@ -72,7 +72,7 @@
     "download_url": "https://github.com/The-Graze/AnalogTurn/releases/download/1.0.0/AnalogTurn-CI.dll"
   },
   {
-    "name": "AlanlogTurn",
+    "name": "AlanlogTurn-GC",
     "author": "Graze",
     "version": "1.0.0",
     "git_path": "The-Graze/AnalogTurn-GC",
