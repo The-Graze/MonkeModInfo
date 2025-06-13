@@ -56,6 +56,30 @@
     "download_url": "https://github.com/The-Graze/LivSkins/releases/download/1.0.1/LivSkins.zip"
   },
   {
+    "name": "AlanlogTurn",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/AnalogTurn",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn/releases/download/1.0.0/AnalogTurn.dll"
+  },
+  {
+    "name": "AlanlogTurn-CI",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/AnalogTurn",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn/releases/download/1.0.0/AnalogTurn-CI.dll"
+  },
+  {
+    "name": "AlanlogTurn",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/AnalogTurn-GC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/The-Graze/AnalogTurn/releases/download/1.0.0/AnalogTurn-GC.dll"
+  },
+  {
     "name": "ComputerInterface",
     "author": "Various(check page)",
     "version": "1.7.6",
