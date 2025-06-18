@@ -366,5 +366,13 @@
     "git_path": "BrokenSt0ne/phosphorite",
     "group": "Cosmetic",
     "download_url": "https://github.com/BrokenSt0ne/phosphorite/releases/download/0.0.1/phosphorite.zip"
+  },
+  {
+    "name": "BringBackBugBabies",
+    "author": "Not A Bird",
+    "version": "1.0.0",
+    "git_path": "Not-A-Bird-07/BringBackBugBabies",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/Not-A-Bird-07/BringBackBugBabies/releases/download/1.0.0/BringBackBugBabies.dll"
   }
 ]
