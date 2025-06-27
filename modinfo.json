@@ -34,10 +34,10 @@
   {
     "name": "Utilla",
     "author": "Various(check page)",
-    "version": "1.6.17.1",
+    "version": "1.6.17.2",
     "git_path": "The-Graze/Utilla",
     "group": "Core",
-    "download_url": "https://github.com/The-Graze/Utilla/releases/download/1.6.17.1/Utilla.dll"
+    "download_url": "https://github.com/The-Graze/Utilla/releases/download/1.6.17.2/Utilla.dll"
   },
   {
     "name": "HoneyLib",
