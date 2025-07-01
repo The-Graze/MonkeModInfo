@@ -353,11 +353,11 @@
   },
   {
     "name": "GorillaFriends",
-    "author": "RusJJ/Not A Bird",
+    "author": "RusJJ/Not A Bird/DEV",
     "version": "1.2.2",
-    "git_path": "Not-A-Bird-07/GorillaFriends",
+    "git_path": "developer9998/GorillaFriends",
     "group": "Gameplay",
-    "download_url": "https://github.com/Not-A-Bird-07/GorillaFriends/releases/download/1.2.2/GorillaFriends.dll"
+    "download_url": "https://github.com/developer9998/GorillaFriends/releases/tag/v1.2.3/GorillaFriends.dll"
   },
   {
     "name": "phosphorite",
