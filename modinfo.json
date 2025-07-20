@@ -391,5 +391,13 @@
     "git_path": "RushKiller001/TpHome",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RushKiller001/TpHome/releases/download/1.4/TpHome.dll"
-  }
+  },
+  {
+    "name": "GorillaTimeChanger",
+    "author": "HanSolo1OOOFalcon",
+    "version": "1.0.0",
+    "git_path": "HanSolo1OOOFalcon/Gorilla-Time-Changer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/HanSolo1000Falcon/Gorilla-Time-Changer/releases/download/1.0.0/GorillaTimeChanger.dll"
+  },
 ]
