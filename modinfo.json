@@ -287,6 +287,14 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/The-Graze/MusicControls/releases/download/1.0.2/MusicControls.dll"
   },
+    {
+    "name": "NAreYouBored",
+    "author": "NgbatzYT",
+    "version": "1.0.0",
+    "git_path": "NgbatzYT/AreYouBored",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/NgbatzYT/AreYouBored/releases/download/1.0.0/AreYouBored.dll"
+  },
   {
     "name": "GorillaHomes",
     "author": "wryser",
