@@ -247,13 +247,13 @@
   {
     "name": "WhoIsThatMonke",
     "author": "HanSolo1000Falcon",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dependencies": [
       "WhoIsTalking"
     ],
     "git_path": "HanSolo1000Falcon/WhoIsThatMonke",
     "group": "Gameplay",
-    "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/download/v1.0.3/WhoIsThatMonke.dll"
+    "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/download/v1.0.4/WhoIsThatMonke.dll"
   },
   {
     "name": "Bepinject",
