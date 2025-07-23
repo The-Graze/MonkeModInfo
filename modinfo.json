@@ -344,6 +344,14 @@
     "download_url": "https://github.com/gizmogoat/GorillaEarmuffs/releases/latest/download/GorillaEarmuffs.dll"
   },
   {
+    "name": "GorillaSteps",
+    "author": "bjrsinge",
+    "version": "1.1.9",
+    "git_path": "bjrsinge/GorillaSteps",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/bjrsinge/GorillaSteps/releases/latest/download/GorillaSteps.dll"
+  },
+  {
     "name": "GorillaXS",
     "author": "gizmogoat",
     "version": "1.2.1",
