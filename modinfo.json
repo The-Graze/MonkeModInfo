@@ -264,6 +264,14 @@
     "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/latest/download/WhoIsThatMonke.dll"
   },
   {
+    "name": "GorillaTimeChanger",
+    "author": "HanSolo1000Falcon",
+    "version": "1.0.1",
+    "git_path": "HanSolo1000Falcon/Gorilla-Time-Changer",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HanSolo1000Falcon/Gorilla-Time-Changer/releases/latest/download/GorillaTimeChanger.dll"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -407,13 +415,5 @@
     "git_path": "RushKiller001/TpHome",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RushKiller001/TpHome/releases/latest/download/TpHome.dll"
-  },
-  {
-    "name": "GorillaTimeChanger",
-    "author": "HanSolo1000Falcon",
-    "version": "1.0.0",
-    "git_path": "HanSolo1000Falcon/Gorilla-Time-Changer",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/HanSolo1000Falcon/Gorilla-Time-Changer/releases/latest/download/GorillaTimeChanger.dll"
   }
 ]
