@@ -271,6 +271,14 @@
     "group": "Gameplay",
     "download_url": "https://github.com/HanSolo1000Falcon/Gorilla-Time-Changer/releases/latest/download/GorillaTimeChanger.dll"
   },
+    {
+    "name": "GorillaTrials",
+    "author": "Lapis/Will/dev9998",
+    "version": "1.0.1",
+    "git_path": "LapisGit/GorillaTrials",
+    "group": "Gameplay",
+    "download_url": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll"
+  },
   {
     "name": "Bepinject",
     "author": "Auros",
