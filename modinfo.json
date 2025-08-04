@@ -352,15 +352,6 @@
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/latest/download/GorillaTag.Discord.RPC.zip"
   },
   {
-    "name": "GorillaEntertainmentSystem",
-    "author": "bjrsinge",
-    "version": "1.0.0",
-    "install_location": "BepInEx/plugins/GorillaEntertainmentSystem",
-    "git_path": "bjrsinge/GorillaEntertainmentSystem",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/bjrsinge/GorillaEntertainmentSystem/releases/latest/download/GorillaEntertainmentSystem.zip"
-  },
-  {
     "name": "GorillaEarmuffs",
     "author": "gizmogoat",
     "version": "1.0.0",
