@@ -325,7 +325,7 @@
   {
     "name": "ComputerInterface",
     "author": "Various(check page)",
-    "version": "1.7.9",
+    "version": "1.7.10",
     "install_location": "BepInEx/plugins",
     "dependencies": [
       "Bepinject"
