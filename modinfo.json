@@ -91,7 +91,7 @@
     "name": "GorillaGhostVision",
     "author": "Dev",
     "version": "1.0.0",
-    "git_path": "developer9998/GorillaPronouns",
+    "git_path": "developer9998/GorillaGhostVision",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaGhostVision/releases/latest/download/GorillaGhostVision.dll"
   },
@@ -212,7 +212,7 @@
     "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
   },
   {
-    "name": "Index",
+    "name": "Index (Broken?)",
     "author": "zaynethedev",
     "version": "1.0.8",
     "install_location": "BepInEx/plugins",
