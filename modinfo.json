@@ -255,7 +255,7 @@
   {
     "name": "WhoIsThatMonke",
     "author": "HanSolo1000Falcon",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "dependencies": [
       "WhoIsTalking"
     ],
