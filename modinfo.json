@@ -264,6 +264,14 @@
     "download_url": "https://github.com/HanSolo1000Falcon/WhoIsThatMonke/releases/latest/download/WhoIsThatMonke.dll"
   },
   {
+    "name": "GorillaHands",
+    "author": "CrafterBot/Chin",
+    "version": "1.0.0",
+    "git_path": "CrafterBotOfficial/GorillaHands",
+    "group": "Gameplay",
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/GorillaHands.dll"
+  },
+  {
     "name": "GorillaTimeChanger",
     "author": "HanSolo1000Falcon",
     "version": "1.0.1",
