@@ -426,6 +426,14 @@
     "download_url": "https://github.com/NgbatzYT/AreYouBored/releases/latest/download/AreYouBored.dll"
   },
   {
+    "name": "Ngbatz's Sub Board",
+    "author": "Ngbatz",
+    "version": "1.0.0",
+    "git_path": "NgbatzYT/NgbatzSubBoard",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/NgbatzSubBoard.dll"
+  },
+  {
     "name": "OculusReportMenu",
     "author": "SirKingBinx",
     "version": "2.1.1",
