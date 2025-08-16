@@ -212,15 +212,6 @@
     "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
   },
   {
-    "name": "Index (Broken?)",
-    "author": "zaynethedev",
-    "version": "1.0.8",
-    "install_location": "BepInEx/plugins",
-    "git_path": "zaynethedev/Index",
-    "group": "Gameplay",
-    "download_url": "https://github.com/zaynethedev/Index/releases/latest/download/Index-1_0_8.zip"
-  },
-  {
     "name": "MarioMonkeMadness (Requires ROM)",
     "author": "gizmogoat",
     "version": "0.1.1",
@@ -269,7 +260,7 @@
     "version": "1.0.0",
     "git_path": "CrafterBotOfficial/GorillaHands",
     "group": "Gameplay",
-    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/GorillaHands.dll"
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/download/GorillaHands.dll"
   },
   {
     "name": "GorillaTimeChanger",
