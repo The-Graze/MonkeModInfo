@@ -206,7 +206,7 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
@@ -238,7 +238,7 @@
   {
     "name": "WhoIsTalking",
     "author": "Graze",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "git_path": "The-Graze/WhoIsTalking",
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/latest/download/WhoIsTalking.dll"
