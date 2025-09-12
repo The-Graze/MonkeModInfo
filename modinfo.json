@@ -271,6 +271,17 @@
     "download_url": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll"
   },
   {
+    "name": "BingusNametags",
+    "author": "SirKingBinx",
+    "version": "1.0.1",
+    "dependencies": [
+      "GorillaFriends"
+    ],
+    "git_path": "sirkingbinx/BingusNametags",
+    "group": "Gameplay",
+    "download_url": "https://github.com/sirkingbinx/BingusNametags/releases/latest/download/BingusNametags.dll"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
