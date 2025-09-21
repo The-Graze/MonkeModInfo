@@ -82,7 +82,7 @@
   {
     "name": "GorillaShirts",
     "author": "Dev",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
@@ -198,7 +198,7 @@
   {
     "name": "GorillaFriends",
     "author": "RusJJ/Not A Bird/DEV",
-    "version": "1.2.3",
+    "version": "1.2.5",
     "git_path": "developer9998/GorillaFriends",
     "group": "Gameplay",
     "download_url": "https://github.com/developer9998/GorillaFriends/releases/latest/download/GorillaFriends.dll"
@@ -409,14 +409,6 @@
     "download_url": "https://github.com/The-Graze/MusicControls/releases/latest/download/MusicControls.dll"
   },
   {
-    "name": "AreYouBored",
-    "author": "Ngbatz",
-    "version": "1.0.0",
-    "git_path": "NgbatzYT/AreYouBored",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/NgbatzYT/AreYouBored/releases/latest/download/AreYouBored.dll"
-  },
-  {
     "name": "NgbatzSubBoard",
     "author": "Ngbatz",
     "version": "1.1.1",
@@ -439,5 +431,108 @@
     "git_path": "RushKiller001/TpHome",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RushKiller001/TpHome/releases/latest/download/TpHome.dll"
-  }
+  },
+  {
+    "name": "GorillaInfoWatch-Lite",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaInfoWatch-Lite",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaInfoWatch-Lite/releases/latest/download/GorillaInfoWatch.dll"
+  },
+  {
+    "name": "GorillaHistoricalTeleporter",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaHistoricalTeleporter",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaHistoricalTeleporter/releases/latest/download/GorillaHistoricalTeleporter.dll"
+  },
+  {
+    "name": "MonkePhone",
+    "author": "developer9998",
+    "version": "1.0.3",
+    "git_path": "developer9998/MonkePhone",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/MonkePhone/releases/latest/download/MonkePhone.dll"
+  },
+  {
+    "name": "GorillaCoconection",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaCoconection",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaCoconection/releases/latest/download/GorillaCoconection.dll"
+  },
+  {
+    "name": "GorillaHandsFree",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaHandsFree",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/GorillaHandsFree/releases/latest/download/GorillaHandsFree.dll"
+  },
+  {
+    "name": "GorillaAvatarCatalog",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "git_path": "developer9998/GorillaAvatarCatalog",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaAvatarCatalog/releases/latest/download/GorillaAvatarCatalog.dll"
+  },
+  {
+    "name": "ScoreboardTweaks",
+    "author": "developer9998",
+    "version": "1.2.2",
+    "git_path": "developer9998/ScoreboardTweaks",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/developer9998/ScoreboardTweaks/releases/latest/download/ScoreboardTweaks.dll"
+  },
+  {
+    "name": "GorillaCustomTime",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaInfoWatch-Lite"
+    ],
+    "git_path": "developer9998/GorillaCustomTime",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaCustomTime/releases/latest/download/GorillaCustomTime.dll"
+  },
+  {
+    "name": "GorillaEntertainmentSystem",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaInfoWatch-Lite"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "developer9998/GorillaFaces",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaFaces/releases/latest/download/GorillaFaces.zip"
+  },
+  {
+    "name": "GorillaFaces",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaInfoWatch-Lite"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "developer9998/GorillaFaces",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaFaces/releases/latest/download/GorillaFaces.zip"
+  },
+  {
+    "name": "GorillaRichPresence",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "GorillaInfoWatch-Lite"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "developer9998/GorillaRichPresence",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
+  },
 ]
