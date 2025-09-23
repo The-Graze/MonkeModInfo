@@ -49,6 +49,14 @@
     "download_url": "https://github.com/wryser/Gorilla-Homes/releases/latest/download/GorillaHomes.zip"
   },
   {
+    "name": "Monke Cosmetics",
+    "author": "Ngbatz",
+    "version": "1.0.0",
+    "git_path": "NgbatzYT/MonkeCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+  },
+  {
     "name": "GorillaPronouns-BASE",
     "author": "Dev",
     "version": "1.0.0",
