@@ -481,14 +481,6 @@
     "download_url": "https://github.com/developer9998/GorillaHandsFree/releases/latest/download/GorillaHandsFree.dll"
   },
   {
-    "name": "GorillaAvatarCatalog",
-    "author": "developer9998",
-    "version": "1.0.0",
-    "git_path": "developer9998/GorillaAvatarCatalog",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaAvatarCatalog/releases/latest/download/GorillaAvatarCatalog.dll"
-  },
-  {
     "name": "ScoreboardTweaks",
     "author": "developer9998",
     "version": "1.2.2",
