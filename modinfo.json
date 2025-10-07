@@ -335,7 +335,7 @@
   {
     "name": "ComputerInterface",
     "author": "Various(check page)",
-    "version": "1.8.0",
+    "version": "1.9.0",
     "install_location": "BepInEx/plugins",
     "git_path": "DecalFree/ComputerInterface",
     "group": "Tweaks / Tools",
