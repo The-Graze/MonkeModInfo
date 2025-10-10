@@ -16,14 +16,6 @@
     "download_url": "https://github.com/The-Graze/Blink2/releases/latest/download/Blink2.dll"
   },
   {
-    "name": "BringBackBugBabies",
-    "author": "Not A Bird",
-    "version": "1.0.0",
-    "git_path": "Not-A-Bird-07/BringBackBugBabies",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/Not-A-Bird-07/BringBackBugBabies/releases/latest/download/BringBackBugBabies.dll"
-  },
-  {
     "name": "Computer Backgrounds",
     "author": "Striker-67",
     "version": "1.0.5",
