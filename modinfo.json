@@ -157,7 +157,7 @@
   {
     "name": "Utilla",
     "author": "Various(check page)",
-    "version": "1.6.19",
+    "version": "1.6.21",
     "git_path": "developer9998/Utilla",
     "group": "Core",
     "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
@@ -208,7 +208,7 @@
   {
     "name": "Grate",
     "author": "Graze",
-    "version": "1.8.6",
+    "version": "1.8.7",
     "git_path": "The-Graze/Grate",
     "group": "Gameplay",
     "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
