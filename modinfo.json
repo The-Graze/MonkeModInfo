@@ -326,7 +326,10 @@
   {
     "name": "PropertiesManager",
     "author": "Clash",
-    "version": "1.0",
+    "version": "1.0.0",
+    "dependencies": [
+      "ComputerInterface"
+    ],
     "git_path": "clash098/PropertiesManager",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/clash098/PropertiesManager/releases/download/Latest/PropertiesManager.dll"
