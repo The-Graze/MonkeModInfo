@@ -323,4 +323,12 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
   },
+  {
+    "name": "PropertiesManager",
+    "author": "Clash",
+    "version": "1.0",
+    "git_path": "clash098/PropertiesManager",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/clash098/PropertiesManager/releases/download/Latest/PropertiesManager.dll"
+  },
 ]
