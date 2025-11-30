@@ -129,6 +129,14 @@
     "group": "Core",
     "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
   },
+    {
+    "name": "BepInEx.ConfigurationManager",
+    "author": "BepInEx",
+    "version": "18.4.1",
+    "git_path": "BepInEx/BepInEx.ConfigurationManager",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/latest/download/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip"
+  },
   {
     "name": "GorillaFriends",
     "author": "RusJJ/Not A Bird/DEV",
