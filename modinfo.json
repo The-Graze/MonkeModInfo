@@ -105,7 +105,6 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/MonkeSky-PC/releases/latest/download/MonkeSky-PC.dll"
   },
-    },
   {
     "name": "ProfilePictures",
     "author": "Graze",
@@ -342,5 +341,5 @@
     "git_path": "clash098/PropertiesManager",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/clash098/PropertiesManager/releases/download/Latest/PropertiesManager.dll"
-  },
+  }
 ]
