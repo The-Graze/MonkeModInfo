@@ -105,6 +105,15 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/The-Graze/MonkeSky-PC/releases/latest/download/MonkeSky-PC.dll"
   },
+    },
+  {
+    "name": "ProfilePictures",
+    "author": "Graze",
+    "version": "4.4.0",
+    "git_path": "The-Graze/ProfilePictures",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/ProfilePictures/releases/latest/download/ProfilePictures.dll"
+  },
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
@@ -306,7 +315,7 @@
     "dependencies": [
       "GorillaInfoWatch-Lite"
     ],
-    "install_location": "BepInEx/plugins",
+    "install_location": "BepInEx/plugins/GorillaFaces",
     "git_path": "developer9998/GorillaFaces",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaFaces/releases/latest/download/GorillaFaces.zip"
