@@ -108,10 +108,11 @@
   {
     "name": "ProfilePictures",
     "author": "Graze",
-    "version": "4.4.0",
+    "version": "4.4.1",
     "git_path": "The-Graze/ProfilePictures",
+    "install_location": "",
     "group": "Cosmetic",
-    "download_url": "https://github.com/The-Graze/ProfilePictures/releases/latest/download/ProfilePictures.dll"
+    "download_url": "https://github.com/The-Graze/ProfilePictures/releases/latest/download/ProfilePictures.zip"
   },
   {
     "name": "BepInEx",
