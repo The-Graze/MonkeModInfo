@@ -358,5 +358,16 @@
     "git_path": "sevvy-wevvy/Several-Bees",
     "group": "Libraries",
     "download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
+  },
+  {
+    "name": "Gorilla Optimizer",
+    "author": "Sev",
+    "version": "1.0.0",
+    "dependencies": [
+      "Several Bees"
+    ],
+    "git_path": "sevvy-wevvy/Gorilla-Optimizer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
   }
 ]
