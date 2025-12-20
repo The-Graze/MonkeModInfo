@@ -265,6 +265,14 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.dll"
   },
+    {
+    "name": "CosmeticsLoadingBar",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/CosmeticsLoadingBar",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/latest/download/CosmeticsLoadingBar.dll"
+  },
   {
     "name": "GorillaInfoWatch-Lite",
     "author": "developer9998",
