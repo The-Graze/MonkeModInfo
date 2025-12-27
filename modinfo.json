@@ -241,15 +241,6 @@
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
   },
   {
-    "name": "ComputerInterface",
-    "author": "Various(check page)",
-    "version": "1.9.3",
-    "install_location": "BepInEx/plugins",
-    "git_path": "DecalFree/ComputerInterface",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/DecalFree/ComputerInterface/releases/latest/download/ComputerInterface.zip"
-  },
-  {
     "name": "NgbatzSubBoard",
     "author": "Ngbatz",
     "version": "1.1.2",
