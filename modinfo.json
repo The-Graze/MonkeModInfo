@@ -48,18 +48,6 @@
     "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.dll"
   },
   {
-    "name": "GorillaPronouns-CI",
-    "author": "Dev",
-    "version": "1.0.0",
-    "dependencies": [
-      "GorillaPronouns",
-      "ComputerInterface"
-    ],
-    "git_path": "developer9998/GorillaPronouns",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.ComputerInterface.dll"
-  },
-  {
     "name": "GorillaPronouns-InfoWatch",
     "author": "Dev",
     "version": "1.0.0",
@@ -77,14 +65,6 @@
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
-  },
-  {
-    "name": "GorillaGhostVision",
-    "author": "Dev",
-    "version": "1.0.0",
-    "git_path": "developer9998/GorillaGhostVision",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaGhostVision/releases/latest/download/GorillaGhostVision.dll"
   },
   {
     "name": "MonkeSky-PC",
@@ -160,17 +140,9 @@
     "download_url": "https://github.com/The-Graze/WhoIsTalking/releases/latest/download/WhoIsTalking.dll"
   },
   {
-    "name": "GorillaHands",
-    "author": "CrafterBot/Chin",
-    "version": "1.0.0",
-    "git_path": "CrafterBotOfficial/GorillaHands",
-    "group": "Gameplay",
-    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/download/GorillaHands.dll"
-  },
-  {
     "name": "GorillaTrials",
     "author": "Lapis/Will/dev9998",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "git_path": "LapisGit/GorillaTrials",
     "group": "Gameplay",
     "download_url": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll"
@@ -266,18 +238,10 @@
   {
     "name": "GorillaHandsFree",
     "author": "developer9998",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "git_path": "developer9998/GorillaHandsFree",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/developer9998/GorillaHandsFree/releases/latest/download/GorillaHandsFree.dll"
-  },
-  {
-    "name": "ScoreboardTweaks",
-    "author": "developer9998",
-    "version": "1.2.2",
-    "git_path": "developer9998/ScoreboardTweaks",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/developer9998/ScoreboardTweaks/releases/latest/download/ScoreboardTweaks.dll"
   },
   {
     "name": "GorillaCustomTime",
@@ -313,17 +277,6 @@
     "install_location": "",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
-  },
-  {
-    "name": "PropertiesManager",
-    "author": "Clash",
-    "version": "1.0.0",
-    "dependencies": [
-      "ComputerInterface"
-    ],
-    "git_path": "clash098/PropertiesManager",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/clash098/PropertiesManager/releases/download/Latest/PropertiesManager.dll"
   },
   {
     "name": "Several Bees",
