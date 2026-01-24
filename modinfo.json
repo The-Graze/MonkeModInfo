@@ -150,7 +150,7 @@
   {
     "name": "BingusNametags++",
     "author": "Bingus",
-    "version": "1.2.1",
+    "version": "1.3.3",
     "git_path": "sirkingbinx/BingusNametagsPlusPlus",
     "group": "Gameplay",
     "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
@@ -197,8 +197,8 @@
   },
   {
     "name": "OculusReportMenu",
-    "author": "SirKingBinx",
-    "version": "2.2.4",
+    "author": "Bingus",
+    "version": "2.3.1",
     "git_path": "sirkingbinx/OculusReportMenu",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.dll"
