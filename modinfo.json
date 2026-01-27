@@ -16,14 +16,6 @@
     "download_url": "https://github.com/The-Graze/Blink2/releases/latest/download/Blink2.dll"
   },
   {
-    "name": "GorillaAvatarCatalog",
-    "author": "Dev",
-    "version": "1.0.0",
-    "git_path": "developer9998/GorillaAvatarCatalog",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/developer9998/GorillaAvatarCatalog/releases/latest/download/GorillaAvatarCatalog.dll"
-  },
-  {
     "name": "GorillaCosmeticTweaks",
     "author": "Dev",
     "version": "1.0.1",
@@ -42,7 +34,7 @@
   {
     "name": "GorillaPronouns",
     "author": "Dev",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "git_path": "developer9998/GorillaPronouns",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaPronouns/releases/latest/download/GorillaPronouns.dll"
@@ -50,7 +42,7 @@
   {
     "name": "GorillaPronouns-InfoWatch",
     "author": "Dev",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": [
       "GorillaPronouns"
     ],
@@ -61,18 +53,10 @@
   {
     "name": "GorillaShirts",
     "author": "Dev",
-    "version": "2.3.1",
+    "version": "2.4.2",
     "git_path": "developer9998/GorillaShirts",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
-  },
-  {
-    "name": "MonkeSky-PC",
-    "author": "Graze",
-    "version": "2.3.0",
-    "git_path": "The-Graze/MonkeSky-PC",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/The-Graze/MonkeSky-PC/releases/latest/download/MonkeSky-PC.dll"
   },
   {
     "name": "ProfilePictures",
@@ -146,7 +130,7 @@
   {
     "name": "Mono-Sandbox-Mod",
     "author": "developer9998",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "git_path": "developer9998/Mono-Sandbox-Mod",
     "group": "Gameplay",
     "download_url": "https://github.com/developer9998/Mono-Sandbox-Mod/releases/latest/download/MonoSandbox.dll"
@@ -202,7 +186,7 @@
   {
     "name": "HoneyLib",
     "author": "BzzzThe18th",
-    "version": "1.1.2",
+    "version": "1.4.4",
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
@@ -210,7 +194,7 @@
   {
     "name": "NgbatzSubBoard",
     "author": "Ngbatz",
-    "version": "1.1.2",
+    "version": "1.2.2",
     "git_path": "NgbatzYT/NgbatzSubBoard",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/download/NgbatzSubBoard.dll"
@@ -250,7 +234,7 @@
   {
     "name": "MonkePhone",
     "author": "developer9998",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "git_path": "developer9998/MonkePhone",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/MonkePhone/releases/latest/download/MonkePhone.dll"
@@ -309,7 +293,7 @@
   {
     "name": "Several Bees",
     "author": "Sev",
-    "version": "1.1.1",
+    "version": "1.4.2",
     "git_path": "sevvy-wevvy/Several-Bees",
     "group": "Libraries",
     "download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
@@ -317,7 +301,7 @@
   {
     "name": "Gorilla Optimizer",
     "author": "Sev",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dependencies": [
       "Several Bees"
     ],
