@@ -215,6 +215,14 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/latest/download/CosmeticsLoadingBar.dll"
   },
+      {
+    "name": "CosmeticNames",
+    "author": "Graze",
+    "version": "1.0.0",
+    "git_path": "The-Graze/CosmeticNames",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticNames/releases/latest/download/CosmeticNames.dll"
+  },
   {
     "name": "GorillaInfoWatch-Lite",
     "author": "developer9998",
