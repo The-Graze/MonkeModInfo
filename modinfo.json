@@ -94,7 +94,7 @@
   {
     "name": "Utilla",
     "author": "Various(check page)",
-    "version": "1.6.26",
+    "version": "1.6.27",
     "dependencies": ["BepInEx"],
     "git_path": "eveloper9998/Utilla",
     "group": "Core",
