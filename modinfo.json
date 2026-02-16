@@ -172,6 +172,15 @@
     "group": "Gameplay",
     "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
   },
+    {
+    "name": "NoForestBarrier",
+    "author": "SilvazWasTaken",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "SilvazWasTaken/NoForestBarrier",
+    "group": "Gameplay",
+    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+  },
   {
     "name": "Bepinject",
     "author": "Auros",
